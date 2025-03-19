@@ -3,7 +3,7 @@ const ctx = canvas.getContext('2d');
 const scoreElement = document.getElementById('score');
 
 // Game constants
-const GRAVITY = 0.12;
+const GRAVITY = 0.23;
 const FLAP_STRENGTH = -7;
 const PIPE_SPEED = 2;
 const PIPE_GAP = 150;
